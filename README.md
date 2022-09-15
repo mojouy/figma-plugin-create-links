@@ -1,5 +1,5 @@
 Figma Create Links
-<img src="https://https://github.com/mojouy/figma-plugin-create-links/blob/main/repo-assets/Icon.png" alt="icon" height="50"></img>
+<img src="https://github.com/mojouy/figma-plugin-create-links/blob/main/repo-assets/Icon.png" alt="icon" height="50"></img>
 # Create Links
 
 This small plugin lets you grab as many frames as you like and generate a nice list for easy navigation through your project or components.
@@ -22,11 +22,6 @@ This Figma plugin is made with lot's of love, and trying to suffice a need I con
 
 
 ## Development
-
-Build for production
-```
-Code here
-```
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/setup/
@@ -67,3 +62,8 @@ We recommend writing TypeScript code using Visual Studio code:
     you reopen Visual Studio Code.
 
 That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
+
+## Find Me
+[On Instagram](https://www.instagram.com/mostrolab/?hl=en)
+[Twitter](https://twitter.com/mojotec)
+[Linkedin](https://www.linkedin.com/in/santiagomollajoli/)
