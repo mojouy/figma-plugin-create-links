@@ -1,4 +1,3 @@
-Figma Create Links
 <img src="https://github.com/mojouy/figma-plugin-create-links/blob/main/repo-assets/Icon.png" alt="icon" height="50"></img>
 # Create Links
 
