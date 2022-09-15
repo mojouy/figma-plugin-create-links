@@ -65,4 +65,4 @@ That's it! Visual Studio Code will regenerate the JavaScript file every time you
 ## Find Me
 [On Instagram](https://www.instagram.com/mostrolab/?hl=en)  
 [Twitter](https://twitter.com/mojotec)  
-[Linkedin](https://www.linkedin.com/in/santiagomollajoli/)\
+[Linkedin](https://www.linkedin.com/in/santiagomollajoli/)
