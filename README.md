@@ -1,5 +1,5 @@
 Figma Create Links
-<!-- <img src="https://github.com/nitinrgupta/figma-font-preview/blob/develop/repo-assets/icon.png" alt="icon" height="50"></img> -->
+<img src="https://https://github.com/mojouy/figma-plugin-create-links/blob/main/repo-assets/Icon.png" alt="icon" height="50"></img>
 # Create Links
 
 This small plugin lets you grab as many frames as you like and generate a nice list for easy navigation through your project or components.
@@ -17,7 +17,7 @@ This Figma plugin is made with lot's of love, and trying to suffice a need I con
 
 ❤️ 
 
-<!-- ![](https://github.com/nitinrgupta/figma-font-preview/blob/develop/repo-assets/banner.png) -->
+![](https://github.com/mojouy/figma-plugin-create-links/blob/main/repo-assets/cover.png)
 
 
 
