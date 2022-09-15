@@ -63,6 +63,6 @@ We recommend writing TypeScript code using Visual Studio code:
 That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
 
 ## Find Me
-[On Instagram](https://www.instagram.com/mostrolab/?hl=en)
-[Twitter](https://twitter.com/mojotec)
-[Linkedin](https://www.linkedin.com/in/santiagomollajoli/)
+[On Instagram](https://www.instagram.com/mostrolab/?hl=en)  
+[Twitter](https://twitter.com/mojotec)  
+[Linkedin](https://www.linkedin.com/in/santiagomollajoli/)\
